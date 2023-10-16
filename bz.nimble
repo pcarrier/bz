@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "Pierre Carrier"
-description   = "Nim port of baze utilities"
+description   = "A few CLI utilities"
 license       = "0BSD"
 srcDir        = "src"
 bin           = @[
