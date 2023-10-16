@@ -9,7 +9,9 @@ bin           = @[
     "cupa",
     "shellescape",
     "statistik",
-    "suc"
+    "suc",
+    "urldecode",
+    "urlencode",
 ]
 
 requires "nim >= 2.0.0"
