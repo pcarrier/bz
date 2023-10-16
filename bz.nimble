@@ -9,6 +9,7 @@ bin           = @[
     "cupa",
     "lecho",
     "shellescape",
+    "shost",
     "statistik",
     "suc",
     "urldecode",
