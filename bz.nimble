@@ -6,6 +6,7 @@ description   = "Nim port of baze utilities"
 license       = "0BSD"
 srcDir        = "src"
 bin           = @[
+    "cupa",
     "shellescape",
     "statistik",
     "suc"
