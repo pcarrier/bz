@@ -7,6 +7,7 @@ license       = "0BSD"
 srcDir        = "src"
 bin           = @[
     "shellescape",
+    "statistik",
 ]
 
 
